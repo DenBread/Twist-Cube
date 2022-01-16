@@ -4,7 +4,5 @@
 Протоп игры. Счего все начиналось:
 
 
-
-https://user-images.githubusercontent.com/37297335/149659972-16609771-9bfd-488d-8351-d3afe41b9ab0.mp4
-
+https://user-images.githubusercontent.com/37297335/149659981-a0cef104-0b4d-40e5-bd99-1ad7dd7548c5.mp4
 
