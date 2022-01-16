@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scanes/First.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

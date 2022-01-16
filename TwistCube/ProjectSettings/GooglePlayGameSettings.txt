@@ -1,0 +1,9 @@
+lastUpgrade=00950
+proj.pluginVersion=0.9.50
+proj.AppId=1006130817584
+and.BundleId=com.testKek.testGame
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--+app_id+--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e1006130817584%3c%2fstring%3e%0d%0a++%3c%21--+package_name+--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.testKek.testGame%3c%2fstring%3e%0d%0a++%3c%21--+achievement+One%2c+two%2c+three%2c+go%21+--%3e%0d%0a++%3cstring+name%3d%22achievement_one_two_three_go%22+translatable%3d%22false%22%3eCgkIsNTHkKQdEAIQAQ%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Fall+over+the+fence+--%3e%0d%0a++%3cstring+name%3d%22achievement_fall_over_the_fence%22+translatable%3d%22false%22%3eCgkIsNTHkKQdEAIQAw%3c%2fstring%3e%0d%0a++%3c%21--+achievement+First+100+points%21+--%3e%0d%0a++%3cstring+name%3d%22achievement_first_100_points%22+translatable%3d%22false%22%3eCgkIsNTHkKQdEAIQBA%3c%2fstring%3e%0d%0a++%3c%21--+achievement+500+points%21+--%3e%0d%0a++%3cstring+name%3d%22achievement_500_points%22+translatable%3d%22false%22%3eCgkIsNTHkKQdEAIQBQ%3c%2fstring%3e%0d%0a++%3c%21--+achievement+1+000+points%21+--%3e%0d%0a++%3cstring+name%3d%22achievement_1_000_points%22+translatable%3d%22false%22%3eCgkIsNTHkKQdEAIQBg%3c%2fstring%3e%0d%0a++%3c%21--+leaderboard+Kings+of+the+Twist+Cube%21+--%3e%0d%0a++%3cstring+name%3d%22leaderboard_kings_of_the_twist_cube%22+translatable%3d%22false%22%3eCgkIsNTHkKQdEAIQAg%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=1006130817584-skeiege102b7hmjve9c6t3ag258duge4.apps.googleusercontent.com
+android.SetupDone=true
